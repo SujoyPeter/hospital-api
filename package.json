@@ -1,13 +1,13 @@
 {
   "name": "hospital-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api madre for hospital purpose",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kashyap Patel",
+  "author": "Sujoy Peter",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
