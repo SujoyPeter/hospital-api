@@ -1,5 +1,7 @@
 # hospital-api
+Hosting Link: https://hospital-api-fqgc.onrender.com
 Api made for hospital
+#Use the hosting link in postman for better usability.
 # Discription
 Doctor Registration:
 
